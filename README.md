@@ -1,18 +1,8 @@
-## 📝 Problem Format
+# LeetCode Solutions
 
-Each LeetCode problem is organized in its own folder.
-
-Each solution may include:
-
-- **Problem Number**
-- **Problem Name**
-- **Approach / Logic**
-- **C Solution**
-- **Time Complexity**
-- **Space Complexity**
-
-### Example
-
-```text
-9-palindrome-number/
-└── solution.c
+| Difficulty | Questions |
+|------------|----------:|
+| 🟢 Easy    | 4 |
+| 🟡 Medium  | 0 |
+| 🔴 Hard    | 0 |
+| **Total**  | **4** |
